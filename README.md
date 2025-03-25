@@ -1,0 +1,2 @@
+# EZMenuMaker
+Google Colaboratory上で動作するMenu作成ツール
